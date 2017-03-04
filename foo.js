@@ -1,1 +1,1 @@
-export const moreConflictHere = () => { console.log(':tada:') }
+export const Foo = () => { console.log('Foo!') }
